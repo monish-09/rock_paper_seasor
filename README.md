@@ -1,1 +1,1 @@
-# rock_paper_seasor
+# rock_paper_seasor_game
